@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rahulm2706/leetcode--/tree/master/0128-longest-consecutive-sequence) |
 | [1189-maximum-number-of-balloons](https://github.com/rahulm2706/leetcode--/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/rahulm2706/leetcode--/tree/master/0031-next-permutation) |
+| [0128-longest-consecutive-sequence](https://github.com/rahulm2706/leetcode--/tree/master/0128-longest-consecutive-sequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rahulm2706/leetcode--/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/rahulm2706/leetcode--/tree/master/2413-smallest-even-multiple) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rahulm2706/leetcode--/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
