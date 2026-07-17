@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/rahulm2706/leetcode--/tree/master/1189-maximum-number-of-balloons) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rahulm2706/leetcode--/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rahulm2706/leetcode--/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/rahulm2706/leetcode--/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/rahulm2706/leetcode--/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rahulm2706/leetcode--/tree/master/0128-longest-consecutive-sequence) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rahulm2706/leetcode--/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/rahulm2706/leetcode--/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rahulm2706/leetcode--/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3701-compute-alternating-sum](https://github.com/rahulm2706/leetcode--/tree/master/3701-compute-alternating-sum) |
