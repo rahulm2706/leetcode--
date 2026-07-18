@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rahulm2706/leetcode--/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/rahulm2706/leetcode--/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rahulm2706/leetcode--/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rahulm2706/leetcode--/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3701-compute-alternating-sum](https://github.com/rahulm2706/leetcode--/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
@@ -40,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/rahulm2706/leetcode--/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/rahulm2706/leetcode--/tree/master/0048-rotate-image) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rahulm2706/leetcode--/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/rahulm2706/leetcode--/tree/master/2413-smallest-even-multiple) |
 | [3945-digit-frequency-score](https://github.com/rahulm2706/leetcode--/tree/master/3945-digit-frequency-score) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rahulm2706/leetcode--/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/rahulm2706/leetcode--/tree/master/2413-smallest-even-multiple) |
 ## Union-Find
 |  |
