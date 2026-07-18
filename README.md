@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/rahulm2706/leetcode--/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/rahulm2706/leetcode--/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rahulm2706/leetcode--/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rahulm2706/leetcode--/tree/master/0128-longest-consecutive-sequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rahulm2706/leetcode--/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rahulm2706/leetcode--/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/rahulm2706/leetcode--/tree/master/0048-rotate-image) |
 | [2413-smallest-even-multiple](https://github.com/rahulm2706/leetcode--/tree/master/2413-smallest-even-multiple) |
 | [3945-digit-frequency-score](https://github.com/rahulm2706/leetcode--/tree/master/3945-digit-frequency-score) |
 ## Number Theory
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rahulm2706/leetcode--/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rahulm2706/leetcode--/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
