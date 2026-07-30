@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/rahulm2706/leetcode--/tree/master/1189-maximum-number-of-balloons) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rahulm2706/leetcode--/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rahulm2706/leetcode--/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahulm2706/leetcode--/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rahulm2706/leetcode--/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulm2706/leetcode--/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulm2706/leetcode--/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/rahulm2706/leetcode--/tree/master/2413-smallest-even-multiple) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahulm2706/leetcode--/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3945-digit-frequency-score](https://github.com/rahulm2706/leetcode--/tree/master/3945-digit-frequency-score) |
 ## Number Theory
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulm2706/leetcode--/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahulm2706/leetcode--/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
