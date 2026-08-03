@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rahulm2706/leetcode--/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rahulm2706/leetcode--/tree/master/0128-longest-consecutive-sequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulm2706/leetcode--/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/rahulm2706/leetcode--/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulm2706/leetcode--/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rahulm2706/leetcode--/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/rahulm2706/leetcode--/tree/master/1920-build-array-from-permutation) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rahulm2706/leetcode--/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/rahulm2706/leetcode--/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulm2706/leetcode--/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/rahulm2706/leetcode--/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulm2706/leetcode--/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/rahulm2706/leetcode--/tree/master/2413-smallest-even-multiple) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahulm2706/leetcode--/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -102,4 +104,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahulm2706/leetcode--/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rahulm2706/leetcode--/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rahulm2706/leetcode--/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rahulm2706/leetcode--/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rahulm2706/leetcode--/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rahulm2706/leetcode--/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
