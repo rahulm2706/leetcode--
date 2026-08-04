@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rahulm2706/leetcode--/tree/master/0128-longest-consecutive-sequence) |
 | [1189-maximum-number-of-balloons](https://github.com/rahulm2706/leetcode--/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rahulm2706/leetcode--/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/rahulm2706/leetcode--/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/rahulm2706/leetcode--/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulm2706/leetcode--/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/rahulm2706/leetcode--/tree/master/2239-find-closest-number-to-zero) |
 | [3701-compute-alternating-sum](https://github.com/rahulm2706/leetcode--/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/rahulm2706/leetcode--/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulm2706/leetcode--/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rahulm2706/leetcode--/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rahulm2706/leetcode--/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/rahulm2706/leetcode--/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
