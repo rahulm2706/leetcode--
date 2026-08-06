@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulm2706/leetcode--/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/rahulm2706/leetcode--/tree/master/2413-smallest-even-multiple) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahulm2706/leetcode--/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rahulm2706/leetcode--/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3945-digit-frequency-score](https://github.com/rahulm2706/leetcode--/tree/master/3945-digit-frequency-score) |
 ## Number Theory
 |  |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rahulm2706/leetcode--/tree/master/0033-search-in-rotated-sorted-array) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rahulm2706/leetcode--/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
