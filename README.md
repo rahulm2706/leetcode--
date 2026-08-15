@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulm2706/leetcode--/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/rahulm2706/leetcode--/tree/master/2239-find-closest-number-to-zero) |
 | [3701-compute-alternating-sum](https://github.com/rahulm2706/leetcode--/tree/master/3701-compute-alternating-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rahulm2706/leetcode--/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/rahulm2706/leetcode--/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rahulm2706/leetcode--/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rahulm2706/leetcode--/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
