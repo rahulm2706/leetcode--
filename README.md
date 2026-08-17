@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rahulm2706/leetcode--/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahulm2706/leetcode--/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rahulm2706/leetcode--/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rahulm2706/leetcode--/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahulm2706/leetcode--/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulm2706/leetcode--/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/rahulm2706/leetcode--/tree/master/0875-koko-eating-bananas) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rahulm2706/leetcode--/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rahulm2706/leetcode--/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rahulm2706/leetcode--/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rahulm2706/leetcode--/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rahulm2706/leetcode--/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahulm2706/leetcode--/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rahulm2706/leetcode--/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rahulm2706/leetcode--/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahulm2706/leetcode--/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/rahulm2706/leetcode--/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rahulm2706/leetcode--/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rahulm2706/leetcode--/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/rahulm2706/leetcode--/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
