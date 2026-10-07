@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulm2706/leetcode--/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rahulm2706/leetcode--/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rahulm2706/leetcode--/tree/master/0020-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/rahulm2706/leetcode--/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/rahulm2706/leetcode--/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/rahulm2706/leetcode--/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rahulm2706/leetcode--/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/rahulm2706/leetcode--/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahulm2706/leetcode--/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/rahulm2706/leetcode--/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rahulm2706/leetcode--/tree/master/1096-brace-expansion-ii) |
 ## DP on Trees
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/rahulm2706/leetcode--/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rahulm2706/leetcode--/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
