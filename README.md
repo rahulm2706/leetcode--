@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahulm2706/leetcode--/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rahulm2706/leetcode--/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulm2706/leetcode--/tree/master/0240-search-a-2d-matrix-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulm2706/leetcode--/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahulm2706/leetcode--/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulm2706/leetcode--/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/rahulm2706/leetcode--/tree/master/0835-image-overlap) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rahulm2706/leetcode--/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/rahulm2706/leetcode--/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/rahulm2706/leetcode--/tree/master/0069-sqrtx) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulm2706/leetcode--/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulm2706/leetcode--/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/rahulm2706/leetcode--/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/rahulm2706/leetcode--/tree/master/0877-stone-game) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulm2706/leetcode--/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulm2706/leetcode--/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/rahulm2706/leetcode--/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulm2706/leetcode--/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
