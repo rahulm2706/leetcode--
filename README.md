@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/rahulm2706/leetcode--/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/rahulm2706/leetcode--/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rahulm2706/leetcode--/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/rahulm2706/leetcode--/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/rahulm2706/leetcode--/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/rahulm2706/leetcode--/tree/master/0877-stone-game) |
+| [1267-count-servers-that-communicate](https://github.com/rahulm2706/leetcode--/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rahulm2706/leetcode--/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rahulm2706/leetcode--/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/rahulm2706/leetcode--/tree/master/1386-cinema-seat-allocation) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rahulm2706/leetcode--/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/rahulm2706/leetcode--/tree/master/1267-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rahulm2706/leetcode--/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulm2706/leetcode--/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/rahulm2706/leetcode--/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/rahulm2706/leetcode--/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rahulm2706/leetcode--/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rahulm2706/leetcode--/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/rahulm2706/leetcode--/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rahulm2706/leetcode--/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/rahulm2706/leetcode--/tree/master/0543-diameter-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/rahulm2706/leetcode--/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rahulm2706/leetcode--/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -319,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahulm2706/leetcode--/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/rahulm2706/leetcode--/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rahulm2706/leetcode--/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/rahulm2706/leetcode--/tree/master/1267-count-servers-that-communicate) |
 ## DP on Trees
 |  |
 | ------- |
