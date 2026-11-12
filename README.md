@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/rahulm2706/leetcode--/tree/master/2239-find-closest-number-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rahulm2706/leetcode--/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rahulm2706/leetcode--/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rahulm2706/leetcode--/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rahulm2706/leetcode--/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rahulm2706/leetcode--/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulm2706/leetcode--/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
