@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulm2706/leetcode--/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rahulm2706/leetcode--/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rahulm2706/leetcode--/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rahulm2706/leetcode--/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rahulm2706/leetcode--/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rahulm2706/leetcode--/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rahulm2706/leetcode--/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/rahulm2706/leetcode--/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rahulm2706/leetcode--/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulm2706/leetcode--/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rahulm2706/leetcode--/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rahulm2706/leetcode--/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rahulm2706/leetcode--/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rahulm2706/leetcode--/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
