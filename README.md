@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/rahulm2706/leetcode--/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahulm2706/leetcode--/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rahulm2706/leetcode--/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/rahulm2706/leetcode--/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulm2706/leetcode--/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/rahulm2706/leetcode--/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rahulm2706/leetcode--/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rahulm2706/leetcode--/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1920-build-array-from-permutation](https://github.com/rahulm2706/leetcode--/tree/master/1920-build-array-from-permutation) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rahulm2706/leetcode--/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/rahulm2706/leetcode--/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/rahulm2706/leetcode--/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/rahulm2706/leetcode--/tree/master/3701-compute-alternating-sum) |
 ## Sorting
